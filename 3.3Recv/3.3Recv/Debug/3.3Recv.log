@@ -1,0 +1,24 @@
+﻿  log.cpp
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(45,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(52,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(59,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(66,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(73,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(80,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+  main.cpp
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(45,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(52,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(59,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(66,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(73,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(80,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+  reno.cpp
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(45,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(52,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(59,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(66,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(73,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.h(80,16): warning C4244: “=”: 从“short”转换到“char”，可能丢失数据
+C:\Users\lengion\source\repos\3.3Recv\3.3Recv\reno.cpp(263,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  3.3Recv.vcxproj -> C:\Users\lengion\source\repos\3.3Recv\Debug\3.3Recv.exe
